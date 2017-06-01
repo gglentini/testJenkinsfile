@@ -1,5 +1,4 @@
 dir(pwd()) {
     checkout scm
+    echo 'hey hey'
 }
-
-echo 'hey hey'
