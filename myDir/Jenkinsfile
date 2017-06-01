@@ -1,4 +1,4 @@
-dir(pwd()) {
+dir('myDir') {
     checkout scm
     echo 'hey hey'
 }
